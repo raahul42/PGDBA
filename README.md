@@ -1,6 +1,7 @@
 # CBA Case Study - Group Project
 ## Credit card customer segmentation
 
+Contemporary Business Analytics:
 Unlabelled data for credit card usage was provided and we tried to answer the following questions.
 
 1) What are the interesting factors that can be observed from the data through graphs?
